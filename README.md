@@ -1,0 +1,2 @@
+# uiautomator2_atx
+uiautomator2使用ATX实现UI自动化框架
